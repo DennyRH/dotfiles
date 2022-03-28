@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = denny.rh182@gmail.com
+	name = Denny Rodas
